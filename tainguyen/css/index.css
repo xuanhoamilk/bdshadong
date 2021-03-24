@@ -763,13 +763,13 @@
 }
 /*css cho jumbocho*/
 .jumbo1{
-  background-image: url(../../img1/background/7hoasamdatbg.jpg);
+  background-image: url(../../img1/phanantuong/background01.jpg);
    background-size: 100% 100%;
   color:  #f4721e;
 }
 .jumbo2 {
    color:  #f4721e; 
-   background-image: url(../../img1/background/1mamdaunanh.jpg);
+   background-image: url(../../img1/phanantuong/background02.jpg);
    background-size: 100% 100%;  
 }
 .paddingjb{
@@ -790,6 +790,11 @@
  border: 1px solid #d7d7d7;
  padding:20px 10px 0px 10px;
  text-align: center;
+
+}
+.tucssjumbo2 p{ 
+ 
+ text-align: left;
 
 }
 .tucssjumbo3{
@@ -816,14 +821,14 @@
    /*css cho banner phu*/
 .bannerphu{
 background-color: transparent;
- height: 160px;
+ height: 260px;
  
- background-image: url(../../img/banner/banner_big_home.png);
+ background-image: url(../../img/banner/banner_big_home.jpg);
  background-size: 100% 100%;
  margin-bottom: 30px;
 }
 .thongtinbannerphu{
-  padding-top: 35px;
+  padding-top: 25px;
   padding-left: 25px;
   color: #79c753;
   font-weight: bold;
